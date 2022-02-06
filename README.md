@@ -1,5 +1,6 @@
 # ML Algorithm Kaggle Competition Word Complexity
  The final solution submited to a Kaggle Competition for Word Complexity (AI)
+https://www.kaggle.com/c/ub-fmi-cti-2021-2022
 
 
 ## What was the problem:
